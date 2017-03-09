@@ -1,0 +1,23 @@
+{
+  "name": "const-loader",
+  "version": "0.1.0",
+  "description": "Const loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rincedd/const-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader"
+  ],
+  "author": "Gerd Zschaler <gzschaler@googlemail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rincedd/const-loader/issues"
+  },
+  "homepage": "https://github.com/rincedd/const-loader#readme"
+}
