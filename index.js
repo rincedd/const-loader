@@ -1,5 +1,6 @@
-const path = require('path');
+const utils = require('loader-utils');
 
 module.exports = function() {
-  return 'module.exports = ' + JSON.stringify(this.query) + ';';
+  const opts = utils.getOptions(this) || {val: ''};
+  return 'module.exports = ' + JSON.stringify(opts.val) + ';';
 };

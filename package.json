@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/rincedd/const-loader/issues"
   },
-  "homepage": "https://github.com/rincedd/const-loader#readme"
+  "homepage": "https://github.com/rincedd/const-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.0.3"
+  }
 }
