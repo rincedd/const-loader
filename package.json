@@ -1,6 +1,6 @@
 {
   "name": "const-loader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Const loader for webpack",
   "main": "index.js",
   "scripts": {
